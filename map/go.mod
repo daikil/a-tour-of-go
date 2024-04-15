@@ -1,4 +1,4 @@
-module a-tour-of-go
+module map
 
 go 1.22
 
